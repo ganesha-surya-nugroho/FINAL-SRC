@@ -114,7 +114,7 @@ h2 {
 /* Hero Section */
 /* Hero Section Styles */
 .hero {
-    background-image: url('/assets/img/hero-img.png'); /* Replace with actual background image */
+    background-image: url('https://www.itb.ac.id/files/dokumentasi/1723170749-1722502620-62847007e9abb873353441.jpg'); /* Replace with actual background image */
     background-size: cover;
     background-position: center;
     height: 100vh;
